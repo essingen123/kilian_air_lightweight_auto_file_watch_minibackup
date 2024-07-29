@@ -29,7 +29,7 @@ set303g=
 set303h=index.html
 
 # 🌳 Branch to commit to, 'main' or a new branch name
-set303j=main
+set303j=master
 
 # 💬 Default commit message (use ~date and ~data for auto-generated content)
 set303k=Automated ~date ~data
