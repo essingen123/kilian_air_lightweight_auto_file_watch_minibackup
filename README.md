@@ -2,8 +2,6 @@
 
 This tool allows a lightweight file backup via a text-file that determines a file / files to get a backup on file change; both in python and for bash; tested on Linux ubuntu. 
 
-
-
 A work in progress with automation 
 
 Tags: Git, Bash, Automation, Automagic, un-PEP8-perhaps
