@@ -1,0 +1,5 @@
+# Enter files to watch (one per line):
+# Example: /path/to/file1.txt
+# Example: file2.py
+# Example: ./file3.md
+kilian_air_lightweight_auto_file_watch_minibackup.sh
