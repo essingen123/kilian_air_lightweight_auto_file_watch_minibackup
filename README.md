@@ -1,4 +1,8 @@
-# kilian_air_lightweight_auto_file_watch_minibackup
+# kilian_air lightweight auto file watch mini-backup tool
+
+This tool allows a lightweight file backup via a text-file that determines a file / files to get a backup on file change; both in python and for bash; tested on Linux ubuntu. 
+
+
 
 A work in progress with automation 
 
